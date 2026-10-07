@@ -1,6 +1,6 @@
 # F1 STRATEGY PREDICTOR
 
-**Video demo:** https://youtu.be/sblWWHJUPpQ
+
 
 ## DESCRIPTION
 
